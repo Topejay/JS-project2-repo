@@ -1,5 +1,5 @@
 const NUM_BUSHES = 50
-const NUM_BALLS = 5
+const NUM_BALLS = 55
 
 const player = document.querySelector('.player')
 const player_pos = {
